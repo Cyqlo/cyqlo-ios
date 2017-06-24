@@ -501,7 +501,7 @@
 		03AEAADD8C320064B69F80BC9E6320E4 /* AWSBolts.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSBolts.h; path = AWSCore/Bolts/AWSBolts.h; sourceTree = "<group>"; };
 		0528D0E30BBD86C8052992A0CC6A9D8A /* AWSPollySynthesizeSpeechURLBuilder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSPollySynthesizeSpeechURLBuilder.m; path = AWSPolly/AWSPollySynthesizeSpeechURLBuilder.m; sourceTree = "<group>"; };
 		054E944788E62C52F54F14AFD30C8605 /* Polyline-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Polyline-prefix.pch"; sourceTree = "<group>"; };
-		055A9403AC4ECD34EDAFA952C161898B /* OSRMTextInstructions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = OSRMTextInstructions.framework; path = OSRMTextInstructions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		055A9403AC4ECD34EDAFA952C161898B /* OSRMTextInstructions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OSRMTextInstructions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		06471C62F7DB6DFC49BB4861192DEFDC /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+WebCacheOperation.h"; path = "SDWebImage/UIView+WebCacheOperation.h"; sourceTree = "<group>"; };
 		0888342A39DFFC0FAF94AA93729FC5B5 /* SDImageCacheConfig.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCacheConfig.m; path = SDWebImage/SDImageCacheConfig.m; sourceTree = "<group>"; };
 		0AD723714123B3DAD95744AC80988A5E /* MBDirections.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MBDirections.swift; path = MapboxDirections/MBDirections.swift; sourceTree = "<group>"; };
@@ -520,7 +520,7 @@
 		1312C6FAB96428683736A052DEBCBC6F /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WebCacheOperation.m"; path = "SDWebImage/UIView+WebCacheOperation.m"; sourceTree = "<group>"; };
 		13167E86DEE215C732CB288C7E3D154B /* Polyline.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Polyline.h; path = Polyline/Polyline.h; sourceTree = "<group>"; };
 		15129489371986E93FD7C680891C4ABF /* AWSSTSModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSSTSModel.h; path = AWSCore/STS/AWSSTSModel.h; sourceTree = "<group>"; };
-		169B624AD3A950BC8DD3DC49ECB0C941 /* MapboxCoreNavigation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MapboxCoreNavigation.framework; path = MapboxCoreNavigation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		169B624AD3A950BC8DD3DC49ECB0C941 /* MapboxCoreNavigation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MapboxCoreNavigation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		175BAC867592C25AB1474B48D28934E3 /* AWSCognitoIdentity+Fabric.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "AWSCognitoIdentity+Fabric.h"; path = "AWSCore/CognitoIdentity/AWSCognitoIdentity+Fabric.h"; sourceTree = "<group>"; };
 		17A156247D8AF61B951064E5F962C6B3 /* AWSValidation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSValidation.m; path = AWSCore/Serialization/AWSValidation.m; sourceTree = "<group>"; };
 		1820B5AF321B9E9DFF4685B3C5471598 /* AWSMTLJSONAdapter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSMTLJSONAdapter.m; path = AWSCore/Mantle/AWSMTLJSONAdapter.m; sourceTree = "<group>"; };
@@ -532,7 +532,7 @@
 		1AEAC3081171858F9DCF14952A92F6DA /* AWSIdentityProvider.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSIdentityProvider.m; path = AWSCore/Authentication/AWSIdentityProvider.m; sourceTree = "<group>"; };
 		1C51EC87001232A4984905AC2C0F1B4D /* AWSCore.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSCore.h; path = AWSCore/AWSCore.h; sourceTree = "<group>"; };
 		1DA443014167BB60F3A1E43E5D0B9600 /* Mapbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Mapbox.framework; path = dynamic/Mapbox.framework; sourceTree = "<group>"; };
-		1EA7D5EE08F04EC5CEBEFCCEC783739A /* AWSCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AWSCore.framework; path = AWSCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1EA7D5EE08F04EC5CEBEFCCEC783739A /* AWSCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AWSCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F5316BE0191596879C00E15FACA487C /* AWSDDMultiFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSDDMultiFormatter.m; path = AWSCore/Logging/Extensions/AWSDDMultiFormatter.m; sourceTree = "<group>"; };
 		203BEAC5F40FDED1738FF53A8E2BD4D9 /* AWSCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSCategory.h; path = AWSCore/Utility/AWSCategory.h; sourceTree = "<group>"; };
 		20C1B59A78B25FA30C4D2446F56CA672 /* AWSPollyResources.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSPollyResources.m; path = AWSPolly/AWSPollyResources.m; sourceTree = "<group>"; };
@@ -558,7 +558,7 @@
 		2F66A5D3135FF18AEC12124AC46163DA /* SimulatedRoute.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SimulatedRoute.swift; path = MapboxNavigation/SimulatedRoute.swift; sourceTree = "<group>"; };
 		2FC7FE091B475973EA42F8D7BDD44B94 /* Pods-Cyqlo Alpha.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Cyqlo Alpha.debug.xcconfig"; sourceTree = "<group>"; };
 		30BDC4804B1552E54CD710D2BFB1CDF0 /* AWSCore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AWSCore.xcconfig; sourceTree = "<group>"; };
-		30F28324C70E7316A1CE91CB0A7A76DF /* MapboxNavigation.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = MapboxNavigation.modulemap; sourceTree = "<group>"; };
+		30F28324C70E7316A1CE91CB0A7A76DF /* MapboxNavigation.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MapboxNavigation.modulemap; sourceTree = "<group>"; };
 		31DAB1ECB9337039679297CE212610FC /* MBIntersection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MBIntersection.swift; path = MapboxDirections/MBIntersection.swift; sourceTree = "<group>"; };
 		326A02E95078F11B0412800948C170EB /* MapboxNavigation-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MapboxNavigation-umbrella.h"; sourceTree = "<group>"; };
 		33182F455F0BDDEA4BDF9CFFC8425324 /* SDWebImageCompat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageCompat.m; path = SDWebImage/SDWebImageCompat.m; sourceTree = "<group>"; };
@@ -589,8 +589,8 @@
 		3F630F21ADE5A134B03F34C5A22E0E5B /* Localizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = Localizable.strings; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
 		3FE28C9F56AEADC288C86AD701FB33E1 /* AWSClientContext.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSClientContext.m; path = AWSCore/Service/AWSClientContext.m; sourceTree = "<group>"; };
 		409FC14DD06B2B30175805A873DFD5FC /* Polyline.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Polyline.xcconfig; sourceTree = "<group>"; };
-		40CAF5502F2B81B32103B026059BFE4D /* Polyline.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Polyline.modulemap; sourceTree = "<group>"; };
-		420BFC55D5F6F308E9A46853D037CB81 /* AWSCore.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = AWSCore.modulemap; sourceTree = "<group>"; };
+		40CAF5502F2B81B32103B026059BFE4D /* Polyline.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Polyline.modulemap; sourceTree = "<group>"; };
+		420BFC55D5F6F308E9A46853D037CB81 /* AWSCore.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AWSCore.modulemap; sourceTree = "<group>"; };
 		426F35201310E23FA3035F7204507F94 /* AWSXMLDictionary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSXMLDictionary.h; path = AWSCore/XMLDictionary/AWSXMLDictionary.h; sourceTree = "<group>"; };
 		4293E510ECA9CCD1366FD02647436C51 /* NSData+ImageContentType.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSData+ImageContentType.m"; path = "SDWebImage/NSData+ImageContentType.m"; sourceTree = "<group>"; };
 		42E3001268D9C07795A522F37159888E /* AWSKSReachability.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSKSReachability.h; path = AWSCore/KSReachability/AWSKSReachability.h; sourceTree = "<group>"; };
@@ -623,7 +623,7 @@
 		53EEDE02F9F7D4657A06E19659586ABC /* UIImage+GIF.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+GIF.m"; path = "SDWebImage/UIImage+GIF.m"; sourceTree = "<group>"; };
 		53F3B4EAE5A85E477DB9CB840798053D /* AWSSTS.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSSTS.h; path = AWSCore/STS/AWSSTS.h; sourceTree = "<group>"; };
 		5425C12030A6FD887273CFCDEF124EB8 /* AWSCancellationTokenRegistration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSCancellationTokenRegistration.h; path = AWSCore/Bolts/AWSCancellationTokenRegistration.h; sourceTree = "<group>"; };
-		54A23080D526831A1D72C883F77A4D04 /* MapboxDirections.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MapboxDirections.framework; path = MapboxDirections.swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		54A23080D526831A1D72C883F77A4D04 /* MapboxDirections.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MapboxDirections.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		552D4F8D048C95B96CF6809686F19DB5 /* SDWebImageDecoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDecoder.h; path = SDWebImage/SDWebImageDecoder.h; sourceTree = "<group>"; };
 		576276E4FAA4687F0E00455523072E2C /* UIView+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WebCache.m"; path = "SDWebImage/UIView+WebCache.m"; sourceTree = "<group>"; };
 		58F132D49B83F239D94BF50CE402F91C /* NSArray+AWSMTLManipulationAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+AWSMTLManipulationAdditions.m"; path = "AWSCore/Mantle/NSArray+AWSMTLManipulationAdditions.m"; sourceTree = "<group>"; };
@@ -664,7 +664,7 @@
 		744F4F89E0E737C60E5A81C64C4D6FDA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		75ACBC46D37553EB017BC3738B6ADE87 /* AWSDDAbstractDatabaseLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSDDAbstractDatabaseLogger.h; path = AWSCore/Logging/AWSDDAbstractDatabaseLogger.h; sourceTree = "<group>"; };
 		7710FEF9FB620253AF0006FBEE638E8F /* AWSExecutor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSExecutor.m; path = AWSCore/Bolts/AWSExecutor.m; sourceTree = "<group>"; };
-		78F094DF3E389AB06CCC15260B7F77C4 /* AWSPolly.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = AWSPolly.modulemap; sourceTree = "<group>"; };
+		78F094DF3E389AB06CCC15260B7F77C4 /* AWSPolly.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AWSPolly.modulemap; sourceTree = "<group>"; };
 		7933B0E9FFAB4D95631F0834266471DA /* AWSFMDatabaseAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSFMDatabaseAdditions.m; path = AWSCore/FMDB/AWSFMDatabaseAdditions.m; sourceTree = "<group>"; };
 		79DD9E65A06379F8C332241DD8807FB5 /* AWSTMMemoryCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSTMMemoryCache.h; path = AWSCore/TMCache/AWSTMMemoryCache.h; sourceTree = "<group>"; };
 		7B3C51DBE7796B3FC50ACF79DFB8C563 /* AWSFMDB.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSFMDB.h; path = AWSCore/FMDB/AWSFMDB.h; sourceTree = "<group>"; };
@@ -685,15 +685,15 @@
 		87AF8BEEE50BB4E1B4F937F77D84440E /* AWSUICKeyChainStore.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSUICKeyChainStore.h; path = AWSCore/UICKeyChainStore/AWSUICKeyChainStore.h; sourceTree = "<group>"; };
 		88847EBD81ED285BC6A760DF68611D50 /* AWSSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSSerialization.h; path = AWSCore/Serialization/AWSSerialization.h; sourceTree = "<group>"; };
 		88CBF5E2BEA516F7461442890FA0FE87 /* AWSDDOSLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSDDOSLogger.h; path = AWSCore/Logging/AWSDDOSLogger.h; sourceTree = "<group>"; };
-		8952E257933D07738D813C37213325FA /* MapboxNavigation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MapboxNavigation.framework; path = MapboxNavigation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8952E257933D07738D813C37213325FA /* MapboxNavigation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MapboxNavigation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A22F801A60FA8F91ADC2E31ED988AF3 /* NSData+ImageContentType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSData+ImageContentType.h"; path = "SDWebImage/NSData+ImageContentType.h"; sourceTree = "<group>"; };
 		8BF9834FD82A6A2B034BD7F44B760B2C /* AWSTMDiskCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSTMDiskCache.h; path = AWSCore/TMCache/AWSTMDiskCache.h; sourceTree = "<group>"; };
 		8C26CA6A84F4F39AB6706639D9D0019A /* MBWaypoint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MBWaypoint.swift; path = MapboxDirections/MBWaypoint.swift; sourceTree = "<group>"; };
 		8C2A75676145689C524DD4444B384747 /* AWSCore-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AWSCore-dummy.m"; sourceTree = "<group>"; };
 		8C5DC4948A80C96115470D07CE93AC5A /* DistanceFormatter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DistanceFormatter.swift; path = MapboxNavigation/DistanceFormatter.swift; sourceTree = "<group>"; };
 		8D267918F894077E7A84526F4557309D /* AWSMTLJSONAdapter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSMTLJSONAdapter.h; path = AWSCore/Mantle/AWSMTLJSONAdapter.h; sourceTree = "<group>"; };
-		8DBDB72818C2B6A0A8CD6BDF4EF26E4A /* SDWebImage.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SDWebImage.modulemap; sourceTree = "<group>"; };
-		8E08764ADF3DB6EA095FA049448C0A46 /* OSRMTextInstructions.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = OSRMTextInstructions.modulemap; sourceTree = "<group>"; };
+		8DBDB72818C2B6A0A8CD6BDF4EF26E4A /* SDWebImage.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SDWebImage.modulemap; sourceTree = "<group>"; };
+		8E08764ADF3DB6EA095FA049448C0A46 /* OSRMTextInstructions.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = OSRMTextInstructions.modulemap; sourceTree = "<group>"; };
 		8ECF795AA81EDC004AD562BDECF92DB2 /* Polyline-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Polyline-umbrella.h"; sourceTree = "<group>"; };
 		8ED2C2DC8197C65299962021D08607FF /* AWSEXTScope.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSEXTScope.h; path = AWSCore/Mantle/extobjc/AWSEXTScope.h; sourceTree = "<group>"; };
 		8EF623525F3104A8DD373A453CB1F130 /* UIImage+MultiFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+MultiFormat.h"; path = "SDWebImage/UIImage+MultiFormat.h"; sourceTree = "<group>"; };
@@ -706,7 +706,7 @@
 		928C302DCD54315D7D3DD18B55A8018B /* MapboxCoreNavigation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MapboxCoreNavigation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		92BA276C2D0EFA581BBBFC1904F579D3 /* NSDictionary+AWSMTLManipulationAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDictionary+AWSMTLManipulationAdditions.m"; path = "AWSCore/Mantle/NSDictionary+AWSMTLManipulationAdditions.m"; sourceTree = "<group>"; };
 		939BFD7367704472D4393B6C7109C4EB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93EFEC90DB4BDF54671DBC9806B0274C /* Pulley-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pulley-umbrella.h"; sourceTree = "<group>"; };
 		940FAAC8F94E6CBB033DA2EC1CFB4800 /* Pulley.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Pulley.xcconfig; sourceTree = "<group>"; };
 		9592965DBDA460B38D1BB8D81B994E9D /* AWSValidation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSValidation.h; path = AWSCore/Serialization/AWSValidation.h; sourceTree = "<group>"; };
@@ -714,7 +714,7 @@
 		961D23EEA560BECCB072D9DF510ADBD4 /* SDWebImage-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDWebImage-prefix.pch"; sourceTree = "<group>"; };
 		97772D1A89CB637DA4F17F13869CADB1 /* AWSNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSNetworking.h; path = AWSCore/Networking/AWSNetworking.h; sourceTree = "<group>"; };
 		97E8BCD7C4AD4F7895E24611E40D701C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		97FB7FB0ECF97AF27EB58AC5CD70EC34 /* MapboxCoreNavigation.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = MapboxCoreNavigation.modulemap; sourceTree = "<group>"; };
+		97FB7FB0ECF97AF27EB58AC5CD70EC34 /* MapboxCoreNavigation.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MapboxCoreNavigation.modulemap; sourceTree = "<group>"; };
 		9B205B7D7C12AA659BEAC025DD4D5A2E /* TokenType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TokenType.swift; path = OSRMTextInstructions/TokenType.swift; sourceTree = "<group>"; };
 		9B4365C1ABC48C6ED1C885A1D43DC665 /* AWSSynchronizedMutableDictionary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSSynchronizedMutableDictionary.h; path = AWSCore/Utility/AWSSynchronizedMutableDictionary.h; sourceTree = "<group>"; };
 		9BA703A610543E9E4907BF8EEF7B355D /* AWSXMLWriter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSXMLWriter.h; path = AWSCore/XMLWriter/AWSXMLWriter.h; sourceTree = "<group>"; };
@@ -726,7 +726,7 @@
 		A05BF7DB0E80E5E10D90F70FCE22B165 /* AWSTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSTask.m; path = AWSCore/Bolts/AWSTask.m; sourceTree = "<group>"; };
 		A0C77736084810D7AE609D178BE01CE5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A194034F599721BCAF1260E727F20363 /* AWSFMDatabaseAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSFMDatabaseAdditions.h; path = AWSCore/FMDB/AWSFMDatabaseAdditions.h; sourceTree = "<group>"; };
-		A1A559415CA9239AC705F1E0FAC98431 /* AWSPolly.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AWSPolly.framework; path = AWSPolly.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1A559415CA9239AC705F1E0FAC98431 /* AWSPolly.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AWSPolly.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1D1861BD190A3F529EB0BC260F7C8F2 /* Pods-Cyqlo Alpha-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Cyqlo Alpha-resources.sh"; sourceTree = "<group>"; };
 		A242CDA30B0ED787295D07ED239204A8 /* MBRoute.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MBRoute.swift; path = MapboxDirections/MBRoute.swift; sourceTree = "<group>"; };
 		A39F672CCE05C0F5563FB87F565FDE34 /* RouteStepFormatter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RouteStepFormatter.swift; path = MapboxNavigation/RouteStepFormatter.swift; sourceTree = "<group>"; };
@@ -741,7 +741,7 @@
 		A6E54F1E3E6790B0A3BDA39C2452734C /* AWSClientContext.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSClientContext.h; path = AWSCore/Service/AWSClientContext.h; sourceTree = "<group>"; };
 		A771554948412C5C759A50EDF8AC2703 /* Pods-Cyqlo Alpha-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Cyqlo Alpha-frameworks.sh"; sourceTree = "<group>"; };
 		A91FF1B2C4F7B45C18FEB73BCA8BC3F2 /* AWSXMLWriter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSXMLWriter.m; path = AWSCore/XMLWriter/AWSXMLWriter.m; sourceTree = "<group>"; };
-		A9A9D2479A0B9D511E3306F5BAF07CD2 /* Pods-Cyqlo Alpha.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-Cyqlo Alpha.modulemap"; sourceTree = "<group>"; };
+		A9A9D2479A0B9D511E3306F5BAF07CD2 /* Pods-Cyqlo Alpha.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Cyqlo Alpha.modulemap"; sourceTree = "<group>"; };
 		AAC9681FD093DC742D277CF31AF2840C /* AWSEXTKeyPathCoding.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSEXTKeyPathCoding.h; path = AWSCore/Mantle/extobjc/AWSEXTKeyPathCoding.h; sourceTree = "<group>"; };
 		ABA890AA6FD8F69061E5E8D5B48F343B /* Navigation.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Navigation.storyboard; path = Base.lproj/Navigation.storyboard; sourceTree = "<group>"; };
 		AD2C5338AD20EA9CC4BBCE7F799BDA51 /* MapboxNavigation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MapboxNavigation.h; path = MapboxNavigation/MapboxNavigation.h; sourceTree = "<group>"; };
@@ -767,7 +767,7 @@
 		BC65B79822A7FEAF6351A32F93D15F67 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD2A01FD0D3981F1DF6900B6088AE69E /* Pods-Cyqlo Alpha-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Cyqlo Alpha-umbrella.h"; sourceTree = "<group>"; };
 		BE1E12A00BE457F730E3D4466D145593 /* AWSCancellationToken.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSCancellationToken.h; path = AWSCore/Bolts/AWSCancellationToken.h; sourceTree = "<group>"; };
-		BFD36CFE793C2F76B2837EFC82852780 /* MapboxDirections.swift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = MapboxDirections.swift.modulemap; sourceTree = "<group>"; };
+		BFD36CFE793C2F76B2837EFC82852780 /* MapboxDirections.swift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MapboxDirections.swift.modulemap; sourceTree = "<group>"; };
 		BFDD7E88733BF9482B3D4D6616D9176B /* AWSTMDiskCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSTMDiskCache.m; path = AWSCore/TMCache/AWSTMDiskCache.m; sourceTree = "<group>"; };
 		C0A54BE6D6BF2193E63FF461FD3E77EC /* OSRMTextInstructions-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "OSRMTextInstructions-dummy.m"; sourceTree = "<group>"; };
 		C24935C39CF426F65558743592B6E7FF /* MapboxDirections.swift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MapboxDirections.swift.xcconfig; sourceTree = "<group>"; };
@@ -794,7 +794,7 @@
 		CFB7010192AAF9052FC4B8EAFCD03CD2 /* MBRouteOptions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MBRouteOptions.m; path = MapboxDirections/MBRouteOptions.m; sourceTree = "<group>"; };
 		CFF559A42E194F449EAD75C275FF7ED1 /* AWSCancellationTokenSource.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSCancellationTokenSource.m; path = AWSCore/Bolts/AWSCancellationTokenSource.m; sourceTree = "<group>"; };
 		D19FE465B9610FB86CFABE7C93919766 /* AWSDDFileLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSDDFileLogger.h; path = AWSCore/Logging/AWSDDFileLogger.h; sourceTree = "<group>"; };
-		D42808C48745741FD68BB6F05569DFE4 /* Pods_Cyqlo_Alpha.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Cyqlo_Alpha.framework; path = "Pods-Cyqlo Alpha.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D42808C48745741FD68BB6F05569DFE4 /* Pods_Cyqlo_Alpha.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Cyqlo_Alpha.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D470F65BEDBDE705BD1A626532DCAE6D /* MBAttribute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MBAttribute.h; path = MapboxDirections/MBAttribute.h; sourceTree = "<group>"; };
 		D586D6050D8F75397941644498363E6E /* PulleyViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PulleyViewController.swift; path = PulleyLib/PulleyViewController.swift; sourceTree = "<group>"; };
 		D5B6B001B94FB6E3818E6A62CCD56FF7 /* MBRouteOptions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MBRouteOptions.swift; path = MapboxDirections/MBRouteOptions.swift; sourceTree = "<group>"; };
@@ -804,14 +804,14 @@
 		DA60FA3AB680C62A38D79E652BE6ED87 /* Localizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = Localizable.strings; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		DB12598E984ADAB0FCAA21972A2498C4 /* SDWebImage-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDWebImage-umbrella.h"; sourceTree = "<group>"; };
 		DBDD105820256C9A7B87687C94E14A74 /* ManeuverDirection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ManeuverDirection.swift; path = MapboxNavigation/ManeuverDirection.swift; sourceTree = "<group>"; };
-		DCED018D2054FC34291F6171022F0ECF /* Pulley.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pulley.framework; path = Pulley.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DCED018D2054FC34291F6171022F0ECF /* Pulley.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pulley.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD23BD1E23E84C33BA440423FC7C97A5 /* MBRouteStep.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MBRouteStep.swift; path = MapboxDirections/MBRouteStep.swift; sourceTree = "<group>"; };
 		DD297AB3518A650973621D7F328A055B /* AWSCognitoIdentityResources.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSCognitoIdentityResources.h; path = AWSCore/CognitoIdentity/AWSCognitoIdentityResources.h; sourceTree = "<group>"; };
 		DDC013D1A758C69E974EDE2CED0826BA /* AWSPollyService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSPollyService.h; path = AWSPolly/AWSPollyService.h; sourceTree = "<group>"; };
 		DE09E4F013CF7F0E396C9881CADBA5A4 /* MapboxNavigation-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MapboxNavigation-prefix.pch"; sourceTree = "<group>"; };
 		DE2ECF682F855FD69BD36D8FC17BBF23 /* AWSCredentialsProvider.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSCredentialsProvider.m; path = AWSCore/Authentication/AWSCredentialsProvider.m; sourceTree = "<group>"; };
 		DEAEA3E9BC71B7D697D5482A2277AFB1 /* AWSPolly-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AWSPolly-prefix.pch"; sourceTree = "<group>"; };
-		E04F630426FA62716404BDE107CB5B9A /* Pulley.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Pulley.modulemap; sourceTree = "<group>"; };
+		E04F630426FA62716404BDE107CB5B9A /* Pulley.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Pulley.modulemap; sourceTree = "<group>"; };
 		E0666F21CBF6631A37A679C61ED429CD /* AWSTMMemoryCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSTMMemoryCache.m; path = AWSCore/TMCache/AWSTMMemoryCache.m; sourceTree = "<group>"; };
 		E0F3E43EC1359D52FD6D0A46E9E7AB81 /* SDImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCache.h; path = SDWebImage/SDImageCache.h; sourceTree = "<group>"; };
 		E15C1D5EE2365D45605AB98810F3A8BA /* AWSDDLog+LOGV.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "AWSDDLog+LOGV.h"; path = "AWSCore/Logging/AWSDDLog+LOGV.h"; sourceTree = "<group>"; };
@@ -824,7 +824,7 @@
 		E59B0EC3773AFFFD25D95CA1D8A66D96 /* SDWebImage.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SDWebImage.xcconfig; sourceTree = "<group>"; };
 		E675BFAFB8116017E6B555FA21C7CB72 /* AWSSTSService.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSSTSService.m; path = AWSCore/STS/AWSSTSService.m; sourceTree = "<group>"; };
 		E67A27E4386D642BE8ACDFF21F03DB6E /* NSValueTransformer+AWSMTLInversionAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSValueTransformer+AWSMTLInversionAdditions.m"; path = "AWSCore/Mantle/NSValueTransformer+AWSMTLInversionAdditions.m"; sourceTree = "<group>"; };
-		E6A4C71E6B10CF1742485CD15FF28672 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SDWebImage.framework; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E6A4C71E6B10CF1742485CD15FF28672 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7426433C19A592BBD87E7657BA7E49B /* AWSURLSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSURLSessionManager.h; path = AWSCore/Networking/AWSURLSessionManager.h; sourceTree = "<group>"; };
 		E9C6427642C01D817D9B3E8D565F8A5F /* SDImageCacheConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCacheConfig.h; path = SDWebImage/SDImageCacheConfig.h; sourceTree = "<group>"; };
 		EA8EB42FA773D7846F8759DB80F5543A /* NSObject+AWSMTLComparisonAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+AWSMTLComparisonAdditions.h"; path = "AWSCore/Mantle/NSObject+AWSMTLComparisonAdditions.h"; sourceTree = "<group>"; };
@@ -837,7 +837,7 @@
 		EEAEF72A307D8FE9EFB08A6B4453A80E /* AWSmetamacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSmetamacros.h; path = AWSCore/Mantle/extobjc/AWSmetamacros.h; sourceTree = "<group>"; };
 		EEBACC423BADD43F1F825D92B64DACFB /* AWSPollyResources.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSPollyResources.h; path = AWSPolly/AWSPollyResources.h; sourceTree = "<group>"; };
 		EFB4E81C6AFA21A46289E565E3BAD774 /* AWSDDAssertMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AWSDDAssertMacros.h; path = AWSCore/Logging/AWSDDAssertMacros.h; sourceTree = "<group>"; };
-		EFD228D495B7B717259E79AC9A8B088E /* Polyline.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Polyline.framework; path = Polyline.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EFD228D495B7B717259E79AC9A8B088E /* Polyline.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Polyline.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F00FB479038CC3C13B99BD78CCC624F7 /* Abbreviations.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = Abbreviations.plist; path = Base.lproj/Abbreviations.plist; sourceTree = "<group>"; };
 		F11C5C868A8B6BBD789D93B0691A4BB3 /* AWSEXTRuntimeExtensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AWSEXTRuntimeExtensions.m; path = AWSCore/Mantle/extobjc/AWSEXTRuntimeExtensions.m; sourceTree = "<group>"; };
 		F1DF79DBFBA0F0D9E8AB02C3F4C876B4 /* Fabric+FABKits.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Fabric+FABKits.h"; path = "AWSCore/Fabric/Fabric+FABKits.h"; sourceTree = "<group>"; };
@@ -984,7 +984,6 @@
 				9144A7DDC50D47FD03B89ACC32C1EACB /* RouteProgress.swift */,
 				5EAF8D7DC65CBD7238968C27F4C4A172 /* Support Files */,
 			);
-			name = MapboxCoreNavigation;
 			path = MapboxCoreNavigation;
 			sourceTree = "<group>";
 		};
@@ -993,7 +992,6 @@
 			children = (
 				255B05DA8737F9A66B853DDF76A3B50F /* Frameworks */,
 			);
-			name = "Mapbox-iOS-SDK";
 			path = "Mapbox-iOS-SDK";
 			sourceTree = "<group>";
 		};
@@ -1004,7 +1002,6 @@
 				D586D6050D8F75397941644498363E6E /* PulleyViewController.swift */,
 				FCDB75109B20BAB455CDFA5703E3C7EE /* Support Files */,
 			);
-			name = Pulley;
 			path = Pulley;
 			sourceTree = "<group>";
 		};
@@ -1042,7 +1039,6 @@
 				71ED91C771F35B71EEC81EDA5027FAB2 /* Resources */,
 				9C11D0EE1F6ED32B80142CDD3CCBBA1D /* Support Files */,
 			);
-			name = OSRMTextInstructions;
 			path = OSRMTextInstructions;
 			sourceTree = "<group>";
 		};
@@ -1141,7 +1137,6 @@
 				E8770EF0092F9B48A157E243C89F0051 /* Resources */,
 				986F35D04121B673D17E7763E70AADA8 /* Support Files */,
 			);
-			name = MapboxNavigation;
 			path = MapboxNavigation;
 			sourceTree = "<group>";
 		};
@@ -1306,7 +1301,6 @@
 				C7C664622C2E060EF0CA9BE6AD346228 /* NSValueTransformer+AWSMTLPredefinedTransformerAdditions.m */,
 				D251D438EE0FA0DD85D626EC67A12924 /* Support Files */,
 			);
-			name = AWSCore;
 			path = AWSCore;
 			sourceTree = "<group>";
 		};
@@ -1409,7 +1403,6 @@
 				0528D0E30BBD86C8052992A0CC6A9D8A /* AWSPollySynthesizeSpeechURLBuilder.m */,
 				5C1F49730CCBCF53496A79247415A3CF /* Support Files */,
 			);
-			name = AWSPolly;
 			path = AWSPolly;
 			sourceTree = "<group>";
 		};
@@ -1473,7 +1466,6 @@
 				4656AF4729251A4229C0DA5EF4F012FD /* Polyline.swift */,
 				A9C1E751C6B5C3F587925F1B576A5792 /* Support Files */,
 			);
-			name = Polyline;
 			path = Polyline;
 			sourceTree = "<group>";
 		};
@@ -1515,7 +1507,6 @@
 				8C26CA6A84F4F39AB6706639D9D0019A /* MBWaypoint.swift */,
 				6DA2B556C1AC4D8EA5E66875385A7057 /* Support Files */,
 			);
-			name = MapboxDirections.swift;
 			path = MapboxDirections.swift;
 			sourceTree = "<group>";
 		};
@@ -1556,7 +1547,6 @@
 				8F7E160F3FB2421A2EB254C6FC0A3DD2 /* Core */,
 				82F5A0B7EA7A07DF48CAF1CE39C88E64 /* Support Files */,
 			);
-			name = SDWebImage;
 			path = SDWebImage;
 			sourceTree = "<group>";
 		};

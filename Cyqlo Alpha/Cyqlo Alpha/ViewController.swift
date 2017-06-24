@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import MapboxDirections
+import MapboxCoreNavigation
 
 class ViewController: UIViewController {
 
