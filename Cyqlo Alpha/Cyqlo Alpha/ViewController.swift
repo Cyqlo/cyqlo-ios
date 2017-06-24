@@ -9,6 +9,8 @@
 import UIKit
 import MapboxDirections
 import MapboxCoreNavigation
+import MapboxNavigation
+
 
 class ViewController: UIViewController {
 
